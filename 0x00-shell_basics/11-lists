@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -fal . .. /boot 
+ls -nfal . .. /boot 
